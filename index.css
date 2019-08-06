@@ -99,3 +99,8 @@ body {
   text-decoration: none;
   color: black;
 }
+
+h2 {
+  border: solid black;
+  padding: 1vw;
+}
